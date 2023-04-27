@@ -79,7 +79,7 @@ This project is a basic website that allows users to add books to a list. The bo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Awesome Books - Live Demo](https://juandiegoguerra.github.io/Awesome-Books-JS/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-https://github.com/mrcbq/awesome-books.git
+https://github.com/JuanDiegoGuerra/Awesome-Books-JS.git
 
 ### Install
 
@@ -107,13 +107,13 @@ https://github.com/mrcbq/awesome-books.git
 
 Clone this repository to your desired folder:
 
-https://github.com/mrcbq/awesome-books.git
+https://github.com/JuanDiegoGuerra/Awesome-Books-JS.git
 
 ### Usage
 
 To run the project, execute the following command:
 
-git clone https://github.com/mrcbq/awesome-books.git
+git clone https://github.com/JuanDiegoGuerra/Awesome-Books-JS.git
 
 ### Run tests
 
@@ -135,17 +135,19 @@ GH Pages, publish the branch in git Hub pages
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Juan Diego Guerra (JD)**
+
+- GitHub: [@Juan Diego](https://github.com/JuanDiegoGuerra)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+
+👤 **Marco Antonio (mrcbq)**
 
 - GitHub: [@mrcbq](https://github.com/mrcbq)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@Juan Diego](https://github.com/JuanDiegoGuerra)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +184,7 @@ Please give a ⭐ to the repo and follow us
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+I would like to thank my coding partner for putting a lot of effort building this project with me!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +209,5 @@ I would like to thank Microverse
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

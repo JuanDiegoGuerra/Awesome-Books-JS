@@ -1,5 +1,11 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <img src="img/awesomebooks_mainpage.JPG" alt="logo" width="70%"  height="auto" />
+  <br/>
+  <h3><b>Awesome Books - Javascript Project</b></h3>
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -73,7 +79,7 @@ This project is a basic website that allows users to add books to a list. The bo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mrcbq.github.io/awesome-books/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

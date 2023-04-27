@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./main-styles.css">
+  <link rel="stylesheet" href="./animations_transitions.css">
+  <title>Awesome Books</title>
+</head>
+
+<body>
+  <main>  
+  <header>
+    <div class="header">      
+      <nav>
+        <p class="header-title">Awesome Books</p>
+        <ul class="nav-list">
+          <li><a href="#" class="navList">List</a></li>
+          <li><a href="#" class="navNew">Add New</a></li>
+          <li><a href="#" class="navContact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <p id="date" class="date"></p>
+  </header>
+    
+    <div class="book-list-container">
+    <h2 id="title" class="main-title">All awesome books</h1>
+    <div id="list" class="book-list">
+    </div>
+    </div>
+    <div id="form-add_book" class="form">
+      <h2 class="form-title">Add a new book</h2>
+      <form action="#" id="form">
+        <input type="text" placeholder="Title" id="book-title"> <br>
+        <input type="text" placeholder="Author" id="book-author"> <br>
+        <button id="btn-add" type="submit">Add</button>
+      </form>
+    </div>
+
+    <div id="contact" class="contact">
+      <h2>Contact Information</h2>
+      <p class="contact-parraf">       
+        If you have any questions or you just want to say "Hello". <br>
+        You can reach us to us:
+      </p>
+      <ul class="contact-ul">
+        <li class="contact-ul-li">Our email: <a href="#">mail@mail.com</a></li>
+        <li class="contact-ul-li">Our phone number: <a href="#">0043586534422</a></li>
+        <li class="contact-ul-li">Our adress: <a href="#">Streetname 22, 84503 City, Country</a></li>
+      </ul>
+    </div>
+    <footer class="footer">
+      <h3>Copyright &copy; 2023 - developed by 
+        <a href="https://github.com/JuanDiegoGuerra" target="_blank" rel="noopener noreferrer">JD</a> and 
+        <a href="https://github.com/mrcbq" target="_blank" rel="noopener noreferrer">mrcbq</a></h3>
+    </footer>
+    </main>  
+  <script type="module" src="./app.js"></script>
+</body>
+
+</html>

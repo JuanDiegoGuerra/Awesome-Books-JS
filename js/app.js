@@ -1,3 +1,4 @@
+//importing class "Book" from another file
 import Book from './book.js';
 
 let Books = JSON.parse(localStorage.getItem('Books')) ?? [];
@@ -17,7 +18,7 @@ class Library {
     localStorage.setItem('Books', JSON.stringify(Books));
   }
 }
-
+// function to dinamically display all the books that have been created
 function displayBook() {
   const bookListDiv = document.querySelector('.book-list');
   bookListDiv.innerHTML = '';
@@ -46,7 +47,7 @@ function displayBook() {
   });
   bookListDiv.appendChild(bookList);
 }
-
+//event listener when clicking the "add" button
 const form = document.querySelector('#form');
 form.addEventListener('submit', (e) => {
   e.preventDefault();
@@ -105,7 +106,7 @@ contactBtn.addEventListener('click', () => {
   formContainer.style.display = 'none';
   contactInfo.style.display = 'block';
 });
-
+//function to display the date with an specific format
 const currentDate = new Date().toLocaleString('default', {
   month: 'long', year: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true,
 });
